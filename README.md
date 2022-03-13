@@ -4,7 +4,7 @@ In this assignment I created an analysis notebook that analyses and visualises t
 I then created a custom portfolio, Apple, Microsoft and Square, and compared its performance to the other portfolios and the S&P TSX 60 market index.
 
 ## Main Tasks
-I used pyton to:
+I used Python and Pandas to:
 1. Read in and Wrangle Returns Data
 2. Determine the Success of Each Portoflio
 3. Choose and Evaluate a Custom Portfolio
